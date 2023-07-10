@@ -1,0 +1,7 @@
+/* .header{
+    background: url(<path-to-image>), lightgray -0.889px 0px / 100.111% 111.51% no-repeat;
+} */
+.header-column{
+    width: 50%;
+    color: aqua;
+}
